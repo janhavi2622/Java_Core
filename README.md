@@ -16,8 +16,8 @@ This repo contains topic-wise code examples to help you understand and master th
 
 ## 🛠 How to Use
 1. **Clone the repository**
-   git clone https://github.com/your-username/java-core-codes.git
-   cd java-core-codes  
+   git clone https://github.com/janhavi2622/Java_Core.git
+   cd Java_Core
 2. **Run a Java file**
    javac FileName.java
    java FileName
